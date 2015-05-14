@@ -22,3 +22,7 @@ web/_cache
 web/_site
 web/site
 web/reference
+
+# IntelliJ
+.idea
+*.iml
